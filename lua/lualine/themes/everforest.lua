@@ -9,7 +9,7 @@ end
 
 return {
   normal = {
-    a = { bg = palette.statusline1, fg = palette.bg1, gui = "bold" },
+    a = { bg = palette.statusline1, fg = palette.bg0, gui = "bold" },
     b = { bg = palette.bg3, fg = palette.grey2 },
     c = { bg = palette.bg1, fg = palette.grey1 },
   },
